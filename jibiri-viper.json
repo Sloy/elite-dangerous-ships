@@ -5,8 +5,8 @@
   "references": [
     {
       "name": "Coriolis.io",
-      "url": "https://coriolis.io/outfit/viper/2p5t9F5l9dasdf21b1b18180m002u4001-.Iw1+kA==.Aw1+kA==?bn=Jibiri%20Viper",
-      "code": "2p5t9F5l9dasdf21b1b18180m002u4001-.Iw1+kA==.Aw1+kA==",
+      "url": "https://coriolis.io/outfit/viper/2p5t9F5l9dasdf21b1b18180m002u4001-.Iw1+kA==.EwBlIyqo?bn=Jibiri%20Viper",
+      "code": "2p5t9F5l9dasdf21b1b18180m002u4001-.Iw1+kA==.EwBlIyqo",
       "shipId": "viper"
     }
   ],
@@ -15,7 +15,7 @@
       "bulkheads": "Military Grade Composite",
       "cargoHatch": {
         "enabled": true,
-        "priority": 1
+        "priority": 3
       },
       "powerPlant": {
         "class": 3,
@@ -27,7 +27,7 @@
         "class": 3,
         "rating": "E",
         "enabled": true,
-        "priority": 1
+        "priority": 3
       },
       "frameShiftDrive": {
         "class": 3,
