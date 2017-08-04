@@ -1,0 +1,175 @@
+{
+  "$schema": "http://cdn.coriolis.io/schemas/ship-loadout/3.json#",
+  "name": "Jibiri Viper",
+  "ship": "Viper",
+  "references": [
+    {
+      "name": "Coriolis.io",
+      "url": "https://coriolis.io/outfit/viper/2p5t9F5l9dasdf21b1b18180m002u4001-.Iw1+kA==.Aw1+kA==?bn=Jibiri%20Viper",
+      "code": "2p5t9F5l9dasdf21b1b18180m002u4001-.Iw1+kA==.Aw1+kA==",
+      "shipId": "viper"
+    }
+  ],
+  "components": {
+    "standard": {
+      "bulkheads": "Military Grade Composite",
+      "cargoHatch": {
+        "enabled": true,
+        "priority": 1
+      },
+      "powerPlant": {
+        "class": 3,
+        "rating": "A",
+        "enabled": true,
+        "priority": 1
+      },
+      "thrusters": {
+        "class": 3,
+        "rating": "E",
+        "enabled": true,
+        "priority": 1
+      },
+      "frameShiftDrive": {
+        "class": 3,
+        "rating": "A",
+        "enabled": true,
+        "priority": 1
+      },
+      "lifeSupport": {
+        "class": 2,
+        "rating": "E",
+        "enabled": true,
+        "priority": 1
+      },
+      "powerDistributor": {
+        "class": 3,
+        "rating": "A",
+        "enabled": true,
+        "priority": 1
+      },
+      "sensors": {
+        "class": 3,
+        "rating": "D",
+        "enabled": true,
+        "priority": 1
+      },
+      "fuelTank": {
+        "class": 2,
+        "rating": "C",
+        "enabled": true,
+        "priority": 1
+      }
+    },
+    "hardpoints": [
+      {
+        "class": 2,
+        "rating": "F",
+        "enabled": true,
+        "priority": 1,
+        "group": "Pulse Laser",
+        "mount": "Gimballed"
+      },
+      {
+        "class": 2,
+        "rating": "F",
+        "enabled": true,
+        "priority": 1,
+        "group": "Pulse Laser",
+        "mount": "Gimballed"
+      },
+      {
+        "class": 1,
+        "rating": "G",
+        "enabled": true,
+        "priority": 1,
+        "group": "Pulse Laser",
+        "mount": "Gimballed"
+      },
+      {
+        "class": 1,
+        "rating": "G",
+        "enabled": true,
+        "priority": 1,
+        "group": "Pulse Laser",
+        "mount": "Gimballed"
+      }
+    ],
+    "utility": [
+      {
+        "class": 0,
+        "rating": "D",
+        "enabled": true,
+        "priority": 1,
+        "group": "Kill Warrant Scanner"
+      },
+      {
+        "class": 0,
+        "rating": "I",
+        "enabled": true,
+        "priority": 1,
+        "group": "Countermeasure",
+        "name": "Chaff Launcher"
+      }
+    ],
+    "internal": [
+      {
+        "class": 3,
+        "rating": "B",
+        "enabled": true,
+        "priority": 1,
+        "group": "Fuel Scoop"
+      },
+      {
+        "class": 3,
+        "rating": "A",
+        "enabled": true,
+        "priority": 1,
+        "group": "Shield Generator"
+      },
+      {
+        "class": 2,
+        "rating": "E",
+        "enabled": true,
+        "priority": 1,
+        "group": "Cargo Rack"
+      },
+      null
+    ]
+  },
+  "stats": {
+    "class": 1,
+    "hullCost": 95900,
+    "speed": 320,
+    "boost": 400,
+    "boostEnergy": 11,
+    "agility": 6,
+    "baseShieldStrength": 105,
+    "baseArmour": 126,
+    "hullMass": 60,
+    "masslock": 7,
+    "pipSpeed": 0.09,
+    "moduleCostMultiplier": 1,
+    "fuelCapacity": 4,
+    "cargoCapacity": 4,
+    "ladenMass": 118.6,
+    "armourAdded": 0,
+    "armourMultiplier": 1.95,
+    "shieldMultiplier": 1,
+    "totalCost": 2290320,
+    "unladenMass": 110.6,
+    "totalDps": 12,
+    "armour": 245,
+    "powerAvailable": 12,
+    "powerRetracted": 7.88,
+    "powerDeployed": 10.26,
+    "unladenRange": 13.72,
+    "fullTankRange": 13.46,
+    "ladenRange": 13.01,
+    "unladenFastestRange": 34.04,
+    "ladenFastestRange": 32.88,
+    "maxJumpCount": 3,
+    "shieldStrength": 178.5,
+    "topSpeed": 299.58,
+    "topBoost": 374.48
+  }
+}
